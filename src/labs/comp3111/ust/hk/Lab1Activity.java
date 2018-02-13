@@ -8,5 +8,6 @@ public class Lab1Activity{
 			sum = sum + x;
 		}
 		System.out.println(String.format("Sum %d",sum));
+		System.out.println(String.format("Sum %d",sum));
 	}
 }
